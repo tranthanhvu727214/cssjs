@@ -111,7 +111,7 @@ jQuery(divpopup).attr('id', 'myModalthanh');
 jQuery(divpopup).attr('class', 'thanhfaceseo-modal');
 jQuery( "body" ).append(divpopup);
 var titleform='Đăng ký Form';
-var urlform="https://chuyenphanphoidatnen.blogspot.com/";
+var urlform="https://docs.google.com/forms/d/e/1FAIpQLSeQMk6zLlWHSReYX8onZPdGIlLXVqgehwjT-uPRA9GtwboT6A/formResponse";
 var urlchuyen=window.location.href;
 var hovaten="1267214750";
 var dienthoai="947791625";
